@@ -1,3 +1,2 @@
-#!bin/bash
-Ech 'ALX'
-emacs bash/school
+#!/bin/bash
+ALX school
